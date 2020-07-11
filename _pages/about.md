@@ -34,7 +34,7 @@ I'm supervised by <a href="https://www.bbc.co.uk/rd/people/andy-brown">Dr Andy B
 Pre-PhD
 =======
 
-Before starting my PhD, I achieved a first-class MComp degree in Computer Science at <a href="https://www.ncl.ac.uk/computing/">Newcastle University</a> specialising in Big Data & Cloud Computing (2017).  
+Before starting my PhD, I achieved a first-class MComp (Hons) degree in Computer Science at <a href="https://www.ncl.ac.uk/computing/">Newcastle University</a> specialising in Big Data & Cloud Computing (2017).  
 
 While at Newcastle, I worked as a Research Assistant in the <a href="https://www.ncl.ac.uk/computing/research/groups/scalable/#about">Scalable Computing Group</a> on <a href="https://www.ncl.ac.uk/computing/research/projects/asoftwareinfrastructureforpromotingefficiententomologicalmonitoringofde.html">efficient entomological monitoring of dengue fever</a>, under the supervision of <a href="https://www.ncl.ac.uk/computing/people/profile/paolomissier.html#background">Dr Paolo Missier</a>, where I worked on evaluating a user ranking algorithm that was developed as part of my master's and bachelor's thesis. The position formed the continuation of an academic collaboration between Newcastle University and <a href="http://www.puc-rio.br/english/">PUC-RIO</a> (including a week-long sprint visit to Rio de Janeiro, Brazil).
 
