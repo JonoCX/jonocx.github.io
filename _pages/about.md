@@ -38,4 +38,4 @@ Before starting my PhD, I achieved a first-class MComp degree in Computer Scienc
 
 While at Newcastle, I worked as a Research Assistant in the <a href="https://www.ncl.ac.uk/computing/research/groups/scalable/#about">Scalable Computing Group</a> on <a href="https://www.ncl.ac.uk/computing/research/projects/asoftwareinfrastructureforpromotingefficiententomologicalmonitoringofde.html">efficient entomological monitoring of dengue fever</a>, under the supervision of <a href="https://www.ncl.ac.uk/computing/people/profile/paolomissier.html#background">Dr Paolo Missier</a>, where I worked on evaluating a user ranking algorithm that was developed as part of my master's and bachelor's thesis. The position formed the continuation of an academic collaboration between Newcastle University and <a href="http://www.puc-rio.br/english/">PUC-RIO</a> (including a week-long sprint visit to Rio de Janeiro, Brazil).
 
-For more detailed information, please refer to my <a href="https://jonocx.github.io/cv/">CV</a>. 
+For more detailed information, please refer to my <a href="https://jonocx.github.io/files/cv_jonathan_carlton.pdf">CV</a>. 
