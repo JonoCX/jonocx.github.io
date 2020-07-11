@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: https://jonocx.github.io/files/cv_jonathan_carlton.pdf
     
   - title: "Publications"
     url: /publications/
