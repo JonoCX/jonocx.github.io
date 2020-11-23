@@ -15,8 +15,7 @@ PhD
 ======
 
 The theme of my PhD is investigating how user interactions (such as clicks, keystrokes, and
-touch gestures) can be modelled, through the application of Machine Learning and Data Science
-techniques, to garner an understanding of the user's experience with online and broadcast media.
+touch gestures) can be modelled to garner an understanding of the user's experience with online and broadcast media.
 Currently, I'm exploring how large logs of interaction data, collected from live production
 experiences, can be used to discover predictive features of engagement and abandonment. 
 
