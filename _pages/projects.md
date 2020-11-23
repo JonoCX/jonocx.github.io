@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+{% comment %} {% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %} {% endcomment %}
+
+Recommender Systems in Museums and Galleries (April 2019 - Present)
+=======
+TODO
