@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+2021
+=====
+Machine Learning and Museum Collections: A Data Curation Conundrum. <br>
+L. N&auml;ohrer, <b>J. Carlton,</b>, C. Jay <br>
+International Conference on Emerging Technologies and the Digital Transformation of Museums and Heritage Sites (RISE IMET), Springer, 2021
 
 2019
 ======
