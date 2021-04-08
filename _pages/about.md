@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science PhD student in my final year at the <a href="https://www.cs.manchester.ac.uk/">University of Manchester</a>, UK, and <a href="https://www.bbc.co.uk/rd">BBC Research & 
+I'm a doctoral researcher (final year) at the <a href="https://www.cs.manchester.ac.uk/">University of Manchester</a>, UK, and <a href="https://www.bbc.co.uk/rd">BBC Research & 
 Development</a> with research interests in Data Science, Human-Computer Interaction, and Recommender Systems.
 
 PhD
