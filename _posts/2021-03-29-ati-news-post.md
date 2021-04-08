@@ -6,5 +6,6 @@ tags:
   - news
 ---
 
-Happy to announce my participation in the April [Alan Turing Institue Data Study Group](https://www.turing.ac.uk/events/data-study-group-april-2021). 
-Looking forward to taking part and applying my knowledge in one of the challenges!
+Happy to announce that I'm taking part in April's [Alan Turing Institute's Data Study](https://www.turing.ac.uk/events/data-study-group-april-2021) 
+group. I'm excited to apply my knowledge and expertise to a real-world challenge starting next week 
+and looking forward to meeting the other participants and partner organisations.
