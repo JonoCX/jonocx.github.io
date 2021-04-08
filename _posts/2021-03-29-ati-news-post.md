@@ -1,21 +1,10 @@
 ---
 title: 'The Alan Turing Institute Data Study Group Participation'
-date: 2021-03-29
-permalink: /posts/2021/03/ati-ds-news/
+date: 2021-04-08
+permalink: /posts/2021/04/ati-ds-news/
 tags:
   - news
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet 
-connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-is this included in the article.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Happy to announce my participation in the April [Alan Turing Institue Data Study Group](https://www.turing.ac.uk/events/data-study-group-april-2021). 
+Looking forward to taking part and applying my knowledge in one of the challenges!
