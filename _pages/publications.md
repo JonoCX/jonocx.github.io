@@ -7,7 +7,7 @@ author_profile: true
 2021
 =====
 Machine Learning and Museum Collections: A Data Curation Conundrum. <br>
-L. N&ouml;hrer, <b>J. Carlton</b>, C. Jay <br>
+L. N&ouml;hrer, <b>J. Carlton</b>, & C. Jay <br>
 <i>International Conference on Emerging Technologies and the Digital Transformation of Museums and Heritage Sites (RISE IMET), Springer, 2021</i>
 
 2019
