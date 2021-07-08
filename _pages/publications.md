@@ -6,6 +6,11 @@ author_profile: true
 ---
 2021
 =====
+Using Interaction Data to Predict Engagement with Interactive Media <br>
+<b>J. Carlton</b>, A. Brown, C. Jay, & J. Keane <br>
+<i>In Proceedings of the 29th ACM International Conference on Multimedia (MM'21), 2021 (to appear)</i>
+
+
 Machine Learning and Museum Collections: A Data Curation Conundrum. <br>
 L. N&ouml;hrer, <b>J. Carlton</b>, & C. Jay <br>
 <i>International Conference on Emerging Technologies and the Digital Transformation of Museums and Heritage Sites (RISE IMET), Springer, 2021</i>
@@ -14,14 +19,14 @@ L. N&ouml;hrer, <b>J. Carlton</b>, & C. Jay <br>
 ======
 
 Inferring User Engagement from Interaction Data <br>
-<b>J. Carlton</b>, A. Brown, C. Jay, & J Keane <br>
+<b>J. Carlton</b>, A. Brown, C. Jay, & J. Keane <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3290607.3313009"><i>Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems</i></a>
 
 2018
 ======
 
 Identifying Latent Indicators of Technical Difficulties from Interaction Data <br>
-<b>J. Carlton</b>, J. Woodcock, A. Brown, C. Jay, & J Keane <br>
+<b>J. Carlton</b>, J. Woodcock, A. Brown, C. Jay, & J. Keane <br>
 <a href="https://www.researchgate.net/profile/Jonathan_Carlton/publication/327499798_Identifying_Latent_Indicators_of_Technical_Difficulties_from_Interaction_Data/links/5b9258634585153a5300836c/Identifying-Latent-Indicators-of-Technical-Difficulties-from-Interaction-Data.pdf"><i>ACM KDD 2018 Workshop on Data Science, Journalism, and Media (DSJM 2018)</i></a>
 
 
