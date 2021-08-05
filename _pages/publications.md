@@ -9,12 +9,12 @@ author_profile: true
 Using Interaction Data to Predict Engagement with Interactive Media <br>
 <b>J. Carlton</b>, A. Brown, C. Jay, & J. Keane <br>
 <i>In Proceedings of the 29th ACM International Conference on Multimedia (MM'21), 2021 (to appear)</i><br>
-<a href="https://zenodo.org/badge/latestdoi/386252507">Code</a>
+<a href="https://zenodo.org/badge/latestdoi/386252507">Code + Data</a> | <a href="https://arxiv.org/abs/2108.01949">Paper (Preprint)</a>
 
 
 Machine Learning and Museum Collections: A Data Curation Conundrum. <br>
 L. N&ouml;hrer, <b>J. Carlton</b>, & C. Jay <br>
-<i>International Conference on Emerging Technologies and the Digital Transformation of Museums and Heritage Sites (RISE IMET), Springer, 2021</i>
+<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-83647-4_2"><i>International Conference on Emerging Technologies and the Digital Transformation of Museums and Heritage Sites (RISE IMET), Springer, 2021</i></a>
 
 2019
 ======
