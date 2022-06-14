@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher (final year) at the <a href="https://www.cs.manchester.ac.uk/">University of Manchester</a>, UK, and <a href="https://www.bbc.co.uk/rd">BBC Research & 
-Development</a> with research interests in Data Science, Human-Computer Interaction, and Recommender Systems.
+I'm a postdoctoral researcher at the <a href="https://www.cs.manchester.ac.uk/">University of Manchester</a>, UK, with research interests in Data Science, Human-Computer Interaction, and Recommender Systems.
+
+Postdoctoral Research Associate
+======
+Leading a project with a start-up to build data pipelines to enable content recommendation based 
+on user behaviour with a mobile app. The app is a work-based e-learning tool used by employees 
+to learn skills relevant to their roles within the company.
 
 PhD
 ======

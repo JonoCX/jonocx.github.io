@@ -10,7 +10,7 @@ locale                   : "en-EN"
 title                    : "Jonathan Carlton"
 title_separator          : "-"
 name                     : &name "Jonathan Carlton"
-description              : &description "PhD Student at The University of Manchester & BBC R&D"
+description              : &description "Postdoctoral Research Associate at The University of Manchester"
 url                      : https://jonocx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonocx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Carlton"
   avatar           : "headshot-chi-1.jpg"
-  bio              : "PhD Student at The University of Manchester & BBC R&D"
+  bio              : "Postdoctoral Research Associate at The University of Manchester"
   location         : "Manchester, UK"
   employer         :
   pubmed           : 
