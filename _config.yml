@@ -10,7 +10,7 @@ locale                   : "en-EN"
 title                    : "Jonathan Carlton"
 title_separator          : "-"
 name                     : &name "Jonathan Carlton"
-description              : &description "Postdoctoral Research Associate at The University of Manchester"
+description              : &description "Senior MLOps Engineer at Fuzzy Labs"
 url                      : https://jonocx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonocx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Carlton"
   avatar           : "headshot-2022.jpg"
-  bio              : "Postdoctoral Research Associate at The University of Manchester"
+  bio              : "Senior MLOps Engineer at Fuzzy Labs"
   location         : "Manchester, UK"
   employer         :
   pubmed           : 
