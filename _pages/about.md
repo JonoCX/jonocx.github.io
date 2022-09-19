@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the <a href="https://www.cs.manchester.ac.uk/">University of Manchester</a>, UK, with research interests in Data Science, Human-Computer Interaction, and Recommender Systems.
+I'm a Senior MLOps Engineer at <a href="https://www.fuzzylabs.ai/">Fuzzy Labs</a>.
+
+Senior MLOps Engineer
+======
+Sept, 2022 - Present
+
 
 Postdoctoral Research Associate
 ======
-Leading a project with a start-up to build data pipelines to enable content recommendation based 
+Lead a project with a start-up to build data pipelines to enable content recommendation based 
 on user behaviour with a mobile app. The app is a work-based e-learning tool used by employees 
 to learn skills relevant to their roles within the company.
+
+Feb - Sept 2022
 
 PhD
 ======
@@ -33,7 +40,9 @@ The application of my work is to:
 As part of my PhD, I'm lucky enough to be embedded into a development team in BBC R&D, where I 
 work closely to shape how and what data is collected from live systems. 
 
-I'm supervised by <a href="https://www.bbc.co.uk/rd/people/andy-brown">Dr Andy Brown</a> (BBC R&D), <a href="https://www.research.manchester.ac.uk/portal/caroline.jay.html">Dr Caroline Jay</a> (University of Manchester), and <a href="http://nactem.ac.uk/profile.php?member=jkeane">Professor John Keane</a> (University of Manchester).
+I was supervised by <a href="https://www.bbc.co.uk/rd/people/andy-brown">Dr Andy Brown</a> (BBC R&D), <a href="https://www.research.manchester.ac.uk/portal/caroline.jay.html">Dr Caroline Jay</a> (University of Manchester), and <a href="http://nactem.ac.uk/profile.php?member=jkeane">Professor John Keane</a> (University of Manchester).
+
+Sept 2017 - January 2022
 
 Pre-PhD
 =======
