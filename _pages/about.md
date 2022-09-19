@@ -12,7 +12,7 @@ I'm a Senior MLOps Engineer at <a href="https://www.fuzzylabs.ai/">Fuzzy Labs</a
 
 Senior MLOps Engineer
 ======
-Sept, 2022 - Present
+Sept 2022 - Present
 
 
 Postdoctoral Research Associate
