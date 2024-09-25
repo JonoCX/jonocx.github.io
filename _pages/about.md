@@ -15,7 +15,8 @@ I'm a Senior MLOps Engineer at <a href="https://www.fuzzylabs.ai/">Fuzzy Labs</a
   <summary>Lead/Senior MLOps Engineer - Fuzzy Labs - Sept 2022-Present</summary>
 
 
-  ## Responsibilities
+  <h4>Responsibilities</h4>
+
   - Lead the end-to-end delivery of machine learning projects from architecture design to implementation in diverse domains, including national security, education, and e-commerce, as well as internal tooling.
   - Mentored and developed engineering talent, actively enabling opportunties for team members to progress in their careers.
   - Partnered with the commerical team to identify machine learning application opportunities for prospective clients and translating them into tailored proposals.
@@ -23,12 +24,13 @@ I'm a Senior MLOps Engineer at <a href="https://www.fuzzylabs.ai/">Fuzzy Labs</a
 
 
 
-  ## Notable Projects 
+  <h4>Notable Projects</h4>
+  
   - National security research projects on LLM safety and security, focusing on model provenance and attack mitigation. Involved working closely with research scientists to build out ideas. Technical work included building infrastructure and RAG-based systems from the ground-up. Tools: Transformers, vLLM, ZenML, Vector Databases, Experiment Tracking, Kubernetes, and Azure.
   - A RAG-based mental health conversational system, involving writing data pipelines to process data, prompt engineering, model evaluation and monitoring, and implementing guardrails, with a user-friendly UI. Tools: ZenML, Transformers, Guardrails.ai, MLflow, Kubernetes, and Azure.
   - Working in close partnership with a UK police force to investigate the applicability of generative AI in aiding officers on the ground. Included building proof-of-concepts with Azure-based Speech-to-Text services and using Large Language Models for summarisation.
 
-  Other projects have included creating open source MLOps infrastructure stacks (e.g., https://mymatcha.ai/) for traditional and generative ML, RAG-based solutions in the education domain, and building an NFT recommendation system.
+  Other projects have included creating open source MLOps infrastructure stacks (e.g., <a href="https://mymatcha.ai/">https://mymatcha.ai/</a>) for traditional and generative ML, RAG-based solutions in the education domain, and building an NFT recommendation system.
 
 
 </details>
