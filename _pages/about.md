@@ -11,7 +11,7 @@ redirect_from:
 I'm a Senior MLOps Engineer at <a href="https://www.fuzzylabs.ai/">Fuzzy Labs</a>.
 
 
-<details>
+<details markdown="1">
   <summary>Lead/Senior MLOps Engineer - Fuzzy Labs - Sept 2022-Present</summary>
 
 
