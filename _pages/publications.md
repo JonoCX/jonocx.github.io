@@ -4,12 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+2024
+====
+Recommending Art Online: Investigating Engagement and Interactions with a National Public Collection <br>
+L. Hughes-N&ouml;hrer, <b>J. Carlton</b>, & C. Jay <br>
+<a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=j6aCWhwAAAAJ&citation_for_view=j6aCWhwAAAAJ:LkGwnXOMwfcC">Paper (pre-print)</a>
+
+
 2021
 =====
 Using Interaction Data to Predict Engagement with Interactive Media <br>
 <b>J. Carlton</b>, A. Brown, C. Jay, & J. Keane <br>
-<i>In Proceedings of the 29th ACM International Conference on Multimedia (MM'21), 2021 (to appear)</i><br>
-<a href="https://zenodo.org/badge/latestdoi/386252507">Code + Data</a> | <a href="https://arxiv.org/abs/2108.01949">Paper (Preprint)</a>
+<i>In Proceedings of the 29th ACM International Conference on Multimedia (MM'21), 2021</i><br>
+<a href="https://zenodo.org/badge/latestdoi/386252507">Code + Data</a> | <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475631">Paper</a>
 
 
 Machine Learning and Museum Collections: A Data Curation Conundrum. <br>
