@@ -35,4 +35,4 @@ Before joining back up with academia, I was a Lead MLOps Engineer at Fuzzy Labs,
 
 Prior to that, I earned a PhD from the University of Manchester with the BBC where my work broke new ground in understanding user engagement with personalised media, developing models to predict when users connect with -- or abandon -- content.
 
-I'm particularly fascinated by the sweet spot where ML meets Human-Computer Interaction, particularly user behaviour modelling and Recommendation Systems. I also enjoy tinkering with the latest tech (so do check out my blog!), and when I'm not doing that, you can usually find me running around the Peak and Lake District! :mountain: :runner:
+I'm particularly fascinated by the sweet spot where ML meets Human-Computer Interaction, especially user behaviour modelling and Recommendation Systems. I also enjoy tinkering with the latest tech (so do check out my blog!), and when I'm not doing that, you can usually find me running around the Peak and Lake District! :mountain: :runner:
