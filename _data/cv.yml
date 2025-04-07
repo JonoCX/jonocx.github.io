@@ -1,97 +1,67 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: 
+#       value: Jonathan Carlton
+#     - name: Summary
+#       vale: Hello!
+#     # - name: Date of Birth
+#     #   value: 14th March 1879
+#     # - name: Languages
+#     #   value: English, German
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate (Current)
+      institution: The University of Manchester
+      year: 2025 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Fixed-term research contract building models to predict health conditions using ECG data and applying interpretability methods to discover salient features.
+        - Tools - PyTorch, ZenML, MLFlow, DVC, and Docker
+
+    - title: Senior MLOps Engineer
+      institution: Fuzzy Labs, Manchester, UK
+      year: 2022-2025
       description:
-        - Description 1.
-        - Description 2.
+        - Led the end-to-end delivery of machine learning projects from conception to production-ready in for a range of clients across a multitude of domains.
+        - Projects included using large language models (open and closed-source) in policing, security and defence, and RAG-based systems, deployed recommendation systems for NFTs, and created multi-cloud infrastructure stacks for traditional and generative ML.
+        - Mentored and developed engineering talent and set company-wide technical best practise.
+        - Close collaboration with the commerical team to identify opportunities, presenting successes and learnings non-/technical audiences.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Lead MLOps Engineer
+      institution: Fuzzy Labs, Manchester, UK
+      year: 2023-2024
       description:
+        - Stepped into the position due to a business requirement for a Lead.
+        - Responsibilities were broadly the same as the Senior position with more overall accountability for project delivery, mentorship of the team, acting as a conduit between senior leadership and the delivery team, and the management of multiple, simultaneous projects.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Postdoctoral Research Associate
+      institution: The University of Manchester
+      year: 2022
+      description:
+        - Researcher on a cross-functional project to build data pipelines, collaborating with academics and industry, to generate and serve recommendations on an e-learning app.
 
-- title: Open Source Projects
+    - title: Research Assistant
+      institution: The University of Manchester
+      year: 2021-2022
+      description:
+        - Collaborated with Art UK and the Smithsonian to build an artwork-based recommendation system that delivered a tailored curation of museum content.
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PhD in Computer Science
+      institution: University of Manchester (BBC R&D Sponsored)
+      year: 2022
+      description:
+        - "Using Data to Understand How Audiences Engage with Interactive Media"
+        - Embedded into BBC R&D's FXT team working on Data Science problems, such as building predictive models of audience engagement and abandonment with nationally released interactive media experiences. 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: ACM Summer School on Recommender Systems
+      institution: University of Gothenburg, Sweden
+      year: 2019
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: MComp (Hons) in Computer Science (Cloud Computing & Big Data Analytics)
+      institution: Newcastle University
+      year: 2017
