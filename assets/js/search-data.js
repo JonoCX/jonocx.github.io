@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "post-claude-what-do-you-think-to-my-running",
+        
+          title: "Claude, what do you think to my running?",
+        
+        description: "Creating an MCP server so Claude can roast my Strava entries",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/strava-mcp/";
+          
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
