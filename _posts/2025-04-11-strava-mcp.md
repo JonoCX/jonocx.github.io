@@ -3,7 +3,7 @@ layout: post
 title: Claude, what do you think to my running?
 date: 2025-04-1
 description: Creating an MCP server so Claude can roast my Strava entries
-tags: generative-ai
+tags: generative-ai, mcp, strava
 categories: generative-ai
 thumbnail: assets/img/posts/strava-mcp/strava-mcp-thumbnail.jpeg
 ---
