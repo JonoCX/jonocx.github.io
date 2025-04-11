@@ -96,8 +96,10 @@ Thanks Claude.
 
 ## General Thoughts
 
-Getting an MCP up and running is impressively simple, and Claude is pretty good at understanding what tools it needs to use to generate output. For example, when playing around with the Strava MCP, I found that Claude would fail to get the information it needed and then attempt to use the other tools available to get it, pretty cool. 
+Claude is pretty good at understanding what tools it needs to use to generate output. For example, when playing around with the Strava MCP, I found that Claude would fail to get the information it needed and then attempt to use the other tools available to get it, pretty cool. 
 
 The MCP does require good docstrings for Claude to understand what tools to use, what the parameters mean, and what format they should be in. If you're a good engineer, this is standard practise. 
+
+Overall, getting an MCP up and running is impressively simple and it's pretty cool seeing how a model like Claude is able to figure out what tools it needs to generate satisfactory output.
 
 If you fancy seeing what Claude has to say about your Strava activities, you can find the Strava MCP server on my Github: [https://github.com/JonoCX/strava-mcp](https://github.com/JonoCX/strava-mcp)
