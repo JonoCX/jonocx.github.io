@@ -63,6 +63,10 @@ If we put it all together, first asking Claude about activities over the past we
     </div>
 </div>
 
+You can see that Claude first fetches all activities from this week and provides an analysis. From there, I ask it about a specific run using part of the activity name and Claude extracts the activity name from the week's activities, uses the tool to fetch a specific activity using the name, and presents back a more detailed analysis. Pretty cool.
+
+There's loads more that could be done here, e.g., looking at longer term trends or whether seasonality plays a role in my running.
+
 
 ## Claude, what do you think to my running?
 
