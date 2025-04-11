@@ -100,6 +100,4 @@ Getting an MCP up and running is impressively simple, and Claude is pretty good 
 
 The MCP does require good docstrings for Claude to understand what tools to use, what the parameters mean, and what format they should be in. If you're a good engineer, this is standard practise. 
 
-It's not really agentic. The agentic part is within Claude, with it's ability to rationalise that it needs to use tools to complete it's task. These MCP servers provide a collection of tools to enable Claude to be more agentic.
-
 If you fancy seeing what Claude has to say about your Strava activities, you can find the Strava MCP server on my Github: [https://github.com/JonoCX/strava-mcp](https://github.com/JonoCX/strava-mcp)
